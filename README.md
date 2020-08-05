@@ -14,7 +14,7 @@ In this section, we're going to dig into two of the most foundational libraries 
 
 ## The Data Science Stack: NumPy and Pandas
 
-| <img src='numpy-logo.png'>  | <img src='pandas-logo.png' height=50% width=50%>  |
+| <img src='https://github.com/learn-co-curriculum/dsc-numpy-and-pandas-intro/raw/master/numpy-logo.png'>  | <img src='https://github.com/learn-co-curriculum/dsc-numpy-and-pandas-intro/raw/master/pandas-logo.png' height=50% width=50%>  |
 |---|---|
 
 The two most foundational libraries in the Data Science 'Stack' are **_NumPy_** and **_Pandas_**.  In this section, we're going to dig into both libraries and get a feel for how they can make our lives easier and allow us to do amazing things with data with just a few lines of code.
